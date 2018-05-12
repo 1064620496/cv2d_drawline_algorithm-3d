@@ -1,0 +1,28 @@
+.top{
+	height:50px;
+}
+input
+{
+	width:2%;
+	height:50%;
+	padding:5px;
+	vertical-align:bottom;
+	font-size:20px;
+}
+span{
+	height:70%;
+	font-size:20px;
+	padding:5px;
+}
+button{
+	height:70%;
+	vertical-align:bottom;
+	font-size:20px;
+}
+
+select{
+	font-size:20px;
+}
+select option{
+	font-size:20px;
+}
